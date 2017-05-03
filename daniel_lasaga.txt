@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Dan is visiting Hyderabad from New York.
-=======
-Dan is visiting Hyderabad. He is taking the session on GIT.
->>>>>>> File Added by PC
+Dan is visiting Hyderabad from New York. He is taking the session on GIT.
+
+Hyderabad is warm.
